@@ -67,8 +67,8 @@ printf("Estado: %s\n", estado1);
 printf("Código: %s\n", codigodacarta1);
 printf("Nome da Cidade: %s\n", nomedacidade1);
 printf("População: %d\n", populacao1);
-printf("Área em quilômetros quadrados: %f\n", area1);
-printf("PIB em reais: %f\n", pib1);
+printf("Área em quilômetros quadrados: %.2f\n", area1);
+printf("PIB em reais: %.2f\n", pib1);
 printf("Número de pontos turísticos: %d\n", pontosturisticos1);
 
 //informações carta montada 2
@@ -77,8 +77,8 @@ printf("Estado: %s\n", estado2);
 printf("Código: %s\n", codigodacarta2);
 printf("Nome da Cidade: %s\n", nomedacidade2);
 printf("População: %d\n", populacao2);
-printf("Área em quilômetros quadrados: %f\n", area2);
-printf("PIB em reais: %f\n", pib2);
+printf("Área em quilômetros quadrados: %.2f\n", area2);
+printf("PIB em reais: %.2f\n", pib2);
 printf("Número de pontos turísticos: %d\n", pontosturisticos2);
 
 
